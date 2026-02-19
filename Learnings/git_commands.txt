@@ -1,0 +1,10 @@
+Commands in git:
+
+    DATE - 19-02-20
+    1. git clone link (to clone the repo from Github to VScode)
+    2. git checkout -b branch_name (to create new branch)
+    3. git checkout branch_name (to go from one branch to another)
+    4. git commit -m "message" (to commit and write a commit message)
+    5. git push (to push current branch to remote repository)
+    6. git add . OR file_name (to stage the files before commit)
+    7. git status (which files are staged or unstage)
